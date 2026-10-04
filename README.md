@@ -13,7 +13,7 @@
 [![5 langues](https://img.shields.io/badge/Langues-FR%20·%20EN%20·%20DE%20·%20IT%20·%20PT-e8c468?style=for-the-badge)](https://3dxvoice.netlify.app/)
 [![Discord](https://img.shields.io/badge/Discord-Rejoindre-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/kJdVbrDDrW)
 
-### [⬇️ Télécharger 3DXVoice](https://discord.gg/hjUtNkamnf) · [🌐 Site officiel](https://3dxvoice.netlify.app/) · [👀 Découvrir l'interface](https://3dxvoice.netlify.app/decouvrir/)
+### [⬇️ Télécharger 3DXVoice](https://github.com/15517139/3DxVoice/releases/latest/download/3DxVoice-setup.exe) · [🌐 Site officiel](https://3dxvoice.netlify.app/) · [👀 Découvrir l'interface](https://3dxvoice.netlify.app/decouvrir/)
 
 🇫🇷 **Français** (ci-dessous) ·
 [🇬🇧 English](#-english) ·
@@ -53,7 +53,7 @@ Chaque nouvelle installation démarre avec une **licence d'essai active immédia
 
 ## Installation
 
-1. **Télécharger** — un seul fichier d'installation : [télécharger via Discord](https://discord.gg/hjUtNkamnf)
+1. **Télécharger** — un seul fichier d'installation : [télécharger 3DxVoice-setup.exe](https://github.com/15517139/3DxVoice/releases/latest/download/3DxVoice-setup.exe)
 2. **Installer** — assistant disponible en 5 langues, du début à la fin
 3. **Lancer** — l'application s'ouvre directement, prête à discuter
 
@@ -69,7 +69,8 @@ Une question, une suggestion, envie d'échanger avec d'autres utilisateurs ? →
 |---|---|
 | 🌐 Site officiel | https://3dxvoice.netlify.app/ |
 | 👀 Aperçu de l'interface | https://3dxvoice.netlify.app/decouvrir/ |
-| ⬇️ Télécharger | https://discord.gg/hjUtNkamnf |
+| ⬇️ Télécharger (Windows) | https://github.com/15517139/3DxVoice/releases/latest/download/3DxVoice-setup.exe |
+| 📦 Dernière version | https://github.com/15517139/3DxVoice/releases/latest |
 | 💬 Communauté Discord | https://discord.gg/kJdVbrDDrW |
 
 ---
@@ -96,7 +97,7 @@ Every new installation starts with an **immediately active trial license**, no c
 
 ### Get started
 
-1. **Download** — [get 3DXVoice via Discord](https://discord.gg/hjUtNkamnf)
+1. **Download** — [download 3DxVoice-setup.exe](https://github.com/15517139/3DxVoice/releases/latest/download/3DxVoice-setup.exe)
 2. **Install** — setup wizard available in 5 languages
 3. **Launch** — the app opens right away, ready to chat
 
